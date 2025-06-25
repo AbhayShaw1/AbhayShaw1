@@ -29,4 +29,4 @@
 [![My Other Development Tools](https://skillicons.dev/icons?i=docker,figma,git,github,postman,linux,vscode,androidstudio,idea,pycharm,webstorm,sublime)](https://skillicons.dev)
 
 <hr/>  
-![Snake animation](https://github.com/AbhayShaw1/AbhayShaw1/blob/output/github-contribution-grid-snake.svg)
+
