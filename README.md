@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=3700&lines=Namaste🙏+I'm+Abhay;Welcome+to+My+Coding+Dojo+🥷🏻+!" /> 
+</h1>
 
-<!--
-**AbhayShaw1/AbhayShaw1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  🚀 Full-Stack Developer | ⚙️ DevOps Enthusiast 
+</h3>
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+#### 🧠 **I'm an undergraduate student currently pursuing a degree in Information Technology.**
+#### 🌱 **Currently Learning**: Docker, Linux, and Networking
+#### ⚡ **Fun Fact**: I love to play games 🎮 & solve CTFs 🧩
+<hr/>
+
+### Languages 🛠 
+[![My Programming Languages](https://skillicons.dev/icons?i=java,js,ts,python,cpp,html,css,bash,nodejs)](https://skillicons.dev)
+
+### Frameworks and Libraries 🛠 
+[![My Development Frameworks](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
+
+### Databases and Cloud Platforms 🛠 
+[![My Databases and Cloud Platforms](https://skillicons.dev/icons?i=mongodb,postgres,firebase,aws)](https://skillicons.dev)
+
+
+### Tools I Have Worked With 🛠 
+[![My Other Development Tools](https://skillicons.dev/icons?i=docker,figma,git,github,postman,linux,vscode,androidstudio,idea,pycharm,webstorm,sublime)](https://skillicons.dev)
+
+<hr/>  
+![Snake animation](https://github.com/AbhayShaw1/AbhayShaw1/blob/output/github-contribution-grid-snake.svg)
