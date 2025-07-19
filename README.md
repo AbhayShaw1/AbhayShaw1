@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Full-Stack Developer | ⚙️ DevOps Enthusiast 
+  🚀 Full-Stack Developer 
 </h3>
 
 <hr/>
@@ -11,8 +11,8 @@
 ### About Me
 
 #### 🧠 **I'm an undergraduate student currently pursuing a degree in Information Technology.**
-#### 🌱 **Currently Learning**: Docker, Linux, and Networking
-#### ⚡ **Fun Fact**: I love to play games 🎮 & solve CTFs 🧩
+#### 🌱 **Currently Learning**: NextJs
+#### ⚡ **Fun Fact**: I love to play games 🎮  🧩
 <hr/>
 
 ### Languages 🛠 
