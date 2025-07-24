@@ -26,7 +26,7 @@
 
 
 ### Tools I Have Worked With 🛠 
-[![My Other Development Tools](https://skillicons.dev/icons?i=docker,figma,git,github,postman,linux,vscode,androidstudio,idea,pycharm,webstorm,sublime)](https://skillicons.dev)
+[![My Other Development Tools](https://skillicons.dev/icons?i=docker,figma,git,github,postman,linux,vscode,androidstudio,webstorm,sublime)](https://skillicons.dev)
 
 <hr/>  
 
