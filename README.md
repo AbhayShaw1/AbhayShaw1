@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Full-Stack Developer 
+  🚀 Frontend Developer 
 </h3>
 
 <hr/>
