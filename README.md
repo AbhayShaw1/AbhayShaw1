@@ -16,7 +16,7 @@
 <hr/>
 
 ### Languages 🛠 
-[![My Programming Languages](https://skillicons.dev/icons?i=java,js,ts,python,cpp,html,css,bash,nodejs)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=js,ts,python,cpp,html,css,bash,nodejs)](https://skillicons.dev)
 
 ### Frameworks and Libraries 🛠 
 [![My Development Frameworks](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
